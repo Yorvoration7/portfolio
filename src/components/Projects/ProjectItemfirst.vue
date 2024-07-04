@@ -6,14 +6,14 @@
 </a>
 
 <h1 class="project__title1">
-    Silver house
+    Online shop
 </h1>
 <div class="line"></div>
 <p class="project__text">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 </p>
 <a href="">
-    <button  onclick="window.location.href='https://yorvoration7.github.io/silver-house/'
+    <button  onclick="window.location.href='https://github.com/Yorvoration7/online-shop'
     target=_blank
     " class="get__project">
         Look it up</button>
