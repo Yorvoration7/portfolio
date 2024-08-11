@@ -10,7 +10,7 @@
 </h1>
 <div class="line"></div>
 <p class="project__text">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Project created on Javascript, HTML, CSS and framework Vue js, online shop created along with filtration and swiper
 </p>
 <a href="">
     <button  onclick="window.location.href='https://github.com/Yorvoration7/online-shop'
