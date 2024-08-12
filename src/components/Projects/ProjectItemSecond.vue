@@ -28,7 +28,7 @@
 <div class="line"></div>
 
 <p class="project__text">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Project crated along with using framework Vue js, there we can write any city and get weather condition and info for a week
 </p>
 <a href="">
     <button onclick="window.location.href='https://github.com/Yorvoration7/weather-app'" class="get__project">Look it up</button>
