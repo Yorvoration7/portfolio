@@ -26,7 +26,7 @@
     <img src="../../assets/images/likeproject.svg" alt="" class="project__pic">
 </a>
 <h1 class="project__title">
-    Expense-tracker
+    Tracker
 </h1>
 <div class="line"></div>
 
