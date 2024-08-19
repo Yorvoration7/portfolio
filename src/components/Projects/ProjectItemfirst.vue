@@ -13,9 +13,9 @@
     Project created on Javascript, HTML, CSS and framework Vue js, online shop created along with filtration and swiper
 </p>
 <a href="">
-    <button  onclick="window.location.href='https://github.com/Yorvoration7/online-shop'
-    target=_blank
-    " class="get__project">
+    <button 
+        target="_blank"
+        onclick="window.location.href='https://github.com/Yorvoration7/online-shop'" class="get__project">
         Look it up</button>
 </a>
     
@@ -26,20 +26,19 @@
     <img src="../../assets/images/likeproject.svg" alt="" class="project__pic">
 </a>
 <h1 class="project__title">
-    Cinema
+    Expense-tracker
 </h1>
 <div class="line"></div>
 
 <p class="project__text">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    This website calculates our expenses by considering our income, and we can write for what kind of things we spent money on.
 </p>
 
 <a href="">
-    <button onclick="window.location.href='https://yorvoration7.github.io/vue-cinema/'" class="get__project">Look it up</button>
+    <button target="_blank" onclick="window.location.href='https://github.com/Yorvoration7/expense-tracker9'" class="get__project">Look it up</button>
 </a>
 </div>
     </div>
-    <!-- <link rel="../assets/styles/style.css" type="" href=""> -->
 </template>
 
 <script setup>
