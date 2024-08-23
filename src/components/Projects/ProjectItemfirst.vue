@@ -10,7 +10,7 @@
 </h1>
 <div class="line"></div>
 <p class="project__text">
-    Project created on Javascript, HTML, CSS and framework Vue js, online shop created along with filtration and swiper
+    Project created on Javascript, HTML, CSS and framework Vue js, online shop created along with filtration and swiper.
 </p>
 <a href="">
     <button 
