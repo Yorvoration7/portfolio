@@ -31,7 +31,7 @@
 <div class="line"></div>
 
 <p class="project__text">
-    This website calculates our expenses by considering our income, and we can write for what kind of things we spent money on.
+    This website calculates our expenses by considering income and we can write for what kind of things we spent money on.
 </p>
 
 <a href="">
