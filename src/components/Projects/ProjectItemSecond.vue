@@ -6,15 +6,15 @@
 </a>
 
 <h1 class="project__title">
-    Nikee
+    Parallax
 </h1>
 <div class="line"></div>
 <p class="project__text">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Here we have practiced parallax along with gsap plugin.
 </p>
 
 <a href="https://github.com/Yorvoration7/grayson">
-    <button onclick="window.location.href='https://yorvoration7.github.io/nikee/'" class="get__project">Look it up</button>
+    <button onclick="window.location.href='https://yorvoration7.github.io/parallax0/'" class="get__project">Look it up</button>
 </a>
 </div>
 
