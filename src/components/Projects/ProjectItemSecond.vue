@@ -10,7 +10,7 @@
 </h1>
 <div class="line"></div>
 <p class="project__text">
-    Here we have can see the website with soft moving , we have practiced parallax along with gsap plugin.
+     Here we have can see the website with soft moving, practiced parallax with gsap plugin. 
 </p>
 
 <a href="https://github.com/Yorvoration7/grayson">
