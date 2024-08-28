@@ -11,7 +11,7 @@ Front-End Developer 👋🏻
 <br>
     </div>
     <div class="photo">  
-    <img src="../../assets/images/yorvoration1.png" alt="" class="my__photo">
+    <img src="../../assets/images/yorvoration2.jpg" alt="" class="my__photo">
     </div>
 </div>
 <div class="button__item">
